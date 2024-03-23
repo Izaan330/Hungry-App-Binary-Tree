@@ -1,0 +1,10 @@
+A001        John_Smith      1234567890      North         500                      1
+A002        Jane_Doe        2345678901      South         250                      0
+A003        Bob_Brown       3456789012      East          1000                     1
+A004        Sarah_Lee       4567890123      West          750                      0
+A005        David_Chen      5678901234      Central       400                      1
+A006        Karen_Lee       6789012345      North    800                      0
+A007        Mike_Kim        7890123456      South-East    600                      1
+A008        Lily_Lee        8901234567      North-West    1200                     0
+A009        Tom_Jones       9012345678      South-West    900                      1
+A010        Anna_Kim        0123456789      Central-East  350                      0

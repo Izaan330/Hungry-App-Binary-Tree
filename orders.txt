@@ -1,0 +1,7 @@
+U002	Hotel_A	Pizza 		200
+U008	Hotel_D	Chicken_Curry     200 
+U008	Hotel_D	Chicken_Curry     200
+U008	Hotel_G	Pasta             150 
+U008	Hotel_A	Pizza             200
+ 
+
